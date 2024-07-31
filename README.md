@@ -4,7 +4,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1116ERJ)
 
-Coding | Gaming | Networking | Creating
+Coding | Gaming | Networking | Creating | 3D Printing | Nerding
 
 ## ... Loading info
 
