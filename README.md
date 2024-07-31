@@ -3,3 +3,5 @@
 ### Hello There! I'm NewAgeRetroNerd!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1116ERJ)
+
+Coding | Gaming | Networking | Creating
