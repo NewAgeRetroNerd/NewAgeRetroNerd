@@ -10,17 +10,15 @@ Coding | Gaming | Networking | Creating
 
 Current languages:
 
-|--------------- | --------------- |
-
-| Java           | SQL             |
-
-| Python         | Bash            |
-
-| C#             | PowerShell      |
-
-| HTML           | CSS             |
-
-| JavaScript     |                 |
+1) Java
+2) C#
+3) SQL
+4) Python
+5) Bash
+6) PowerShell
+7) HTML
+8) CSS
+9) Javascript
 
 Currently working on gaining more programming skills as I work through side projects.
 If you'd like help on a project feel free to reach out!
