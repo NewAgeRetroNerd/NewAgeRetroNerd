@@ -8,6 +8,7 @@ Coding | Gaming | Networking | Creating | 3D Printing | Nerding
 
 ## ... Loading info
 Current Linux Distro:
+
 Arch Linux // XFCE
 
 Current languages:
