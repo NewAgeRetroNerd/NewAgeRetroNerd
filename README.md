@@ -7,7 +7,7 @@
 Coding | Gaming | Networking | Creating | 3D Printing | Nerding
 
 ![NewAgeRetroNerd's GitHub stats](https://github-readme-stats.vercel.app/api?username=newageretronerd&show_icons=true&theme=chartreuse-dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=newageretronerd&theme=chartreuse-dark&mode=daily)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NewAgeRetroNerd&theme=chartreuse-dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newageretronerd&layout=compact&theme=chartreuse-dark)
 
 ## ... Loading info
