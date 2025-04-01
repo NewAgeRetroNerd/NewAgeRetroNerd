@@ -28,6 +28,7 @@ Current languages:
 7) HTML
 8) CSS
 9) Javascript
+10) PHP
 
 Currently working on gaining more programming skills as I work through side projects.
 If you'd like help on a project feel free to reach out!
