@@ -1,41 +1,58 @@
-<img src="./penguin_code.jpg" align="center"/>
-
 ### Hello There! I'm NewAgeRetroNerd!
+Software Developer | Computer Science Student | Problem Solver
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1116ERJ)
+I enjoy building things from the ground up and understanding how systems work beneath the surface.  
+My goal is to become the kind of developer who can both design software and understand the systems it runs on.
 
-Coding | Gaming | Networking | Creating | 3D Printing | Nerding
-
-![NewAgeRetroNerd's GitHub stats](https://github-readme-stats.vercel.app/api?username=newageretronerd&show_icons=true&theme=chartreuse-dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=NewAgeRetroNerd&theme=chartreuse-dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newageretronerd&layout=compact&theme=chartreuse-dark)
 
-## ... Loading info
-Current Linux Distro:
+## 🔧 Technical Skills
 
-   Arch Linux // XFCE
+**Languages**
+C#, Java, Python, SQL, PHP, JavaScript, Bash, PowerShell
 
+**Web & Backend**
+HTML, CSS, JavaScript, PHP, MySQL  
+Experience with ASP.NET (coursework)
 
+**Systems & Tools**
+Linux/GNU, Git, Active Directory
 
-Current languages:
+---
 
-1) Java
-2) C#
-3) SQL
-4) Python
-5) Bash
-6) PowerShell
-7) HTML
-8) CSS
-9) Javascript
-10) PHP
+## 🚀 Featured Project
 
-Currently working on gaining more programming skills as I work through side projects.
-If you'd like help on a project feel free to reach out!
+### Route 66 Explorer  
+🏆 USITCC 2025 – Most Innovative Award
 
-# Socials
-Discord - @newageretronerd
+A full-stack travel exploration website built to help users discover landmarks, weather, and events along historic Route 66.
 
-Twitter - @NewAgeRetroNerd
+**Key Features**
+- Integrated external APIs for live weather and event data
+- Secure user authentication system
+- Social-style post and reply system
+- Full CRUD functionality (create, edit, delete posts and comments)
+- MySQL relational database design
 
-Email   - newageretrobusiness@gmail.com
+**Tech Stack**
+HTML | CSS | JavaScript | PHP | MySQL
+
+🔗 Repository: https://github.com/NewAgeRetroNerd/route66explorer
+---
+
+---
+
+## 🎮 Interests
+
+When I'm not coding, you'll usually find me:
+
+- Exploring Linux and tinkering with systems
+- Playing story-driven or retro games
+- Reading about technology and software design
+- Working on small hardware or 3D printing projects
+
+---
+
+## 📫 Contact
+Email: newageretrobusiness@gmail.com
+
