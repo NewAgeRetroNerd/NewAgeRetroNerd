@@ -4,8 +4,6 @@ Software Developer | Computer Science Student | Problem Solver
 I enjoy building things from the ground up and understanding how systems work beneath the surface.  
 My goal is to become the kind of developer who can both design software and understand the systems it runs on.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NewAgeRetroNerd&theme=chartreuse-dark)](https://git.io/streak-stats)
-
 ## 🔧 Technical Skills
 
 **Languages**
