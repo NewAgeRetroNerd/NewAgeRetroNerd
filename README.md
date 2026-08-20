@@ -4,7 +4,9 @@ Software Developer | Computer Science Student | Problem Solver
 I enjoy building things from the ground up and understanding how systems work beneath the surface.  
 My goal is to become the kind of developer who can both design software and understand the systems it runs on.
 
-[![NewAgeRetroNerd's GitHub stats](https://github-stats-extended.vercel.app/api?username=newageretronerd)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NewAgeRetroNerd&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=NewAgeRetroNerd&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=NewAgeRetroNerd&layout=compact&langs_count=10&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=NewAgeRetroNerd&layout=compact&langs_count=10&theme=chartreuse-dark)
 
 ## 🔧 Technical Skills
 
