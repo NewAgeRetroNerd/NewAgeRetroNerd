@@ -4,6 +4,8 @@ Software Developer | Computer Science Student | Problem Solver
 I enjoy building things from the ground up and understanding how systems work beneath the surface.  
 My goal is to become the kind of developer who can both design software and understand the systems it runs on.
 
+[![NewAgeRetroNerd's GitHub stats](https://github-stats-extended.vercel.app/api?username=newageretronerd)](https://github.com/stats-organization/github-stats-extended)
+
 ## 🔧 Technical Skills
 
 **Languages**
